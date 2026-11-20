@@ -1,0 +1,4 @@
+adhanpy
+hijridate
+matplotlib
+qrcode

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="IMAGE" xmlns="http://www.w3.org/2000/svg" width="1228.0031738" height="2232" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1228.0031738 2232">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <pattern id="halftone_coarse3" data-name="halftone coarse3" x="0" y="0" width="14" height="14" patternTransform="translate(-37.4755644 21966.1901369) scale(.997431 1.0440259)" patternUnits="userSpaceOnUse" viewBox="0 0 14 14">
+      <g>
+        <rect width="14" height="14" fill="none"/>
+        <g>
+          <rect width="14" height="14" fill="none"/>
+          <g>
+            <rect width="14" height="14" fill="none"/>
+            <circle cx="3.4999999" cy="10.5000001" r="1.3999997" fill="#111"/>
+            <circle cx="10.5" cy="10.5" r="1.1000004" fill="#111"/>
+            <circle cx="3.5" cy="3.5" r="1.1000004" fill="#111"/>
+            <circle cx="10.5" cy="3.5" r="1.5" fill="#111"/>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="night_noise" data-name="night noise" x="0" y="0" width="24" height="24" patternTransform="translate(-63.8533325 20767.40625)" patternUnits="userSpaceOnUse" viewBox="0 0 24 24">
+      <g>
+        <rect width="24" height="24" fill="none"/>
+        <g>
+          <rect width="24" height="24" fill="none"/>
+          <g>
+            <rect width="24" height="24" fill="none"/>
+            <rect width="24" height="24" fill="#0b0b0b"/>
+            <circle cx="3" cy="20.0000001" r=".3500001" fill="#fff" isolation="isolate" opacity=".55"/>
+            <circle cx="8" cy="17" r=".25" fill="#fff" isolation="isolate" opacity=".4"/>
+            <circle cx="12" cy="19" r=".2999995" fill="#fff" isolation="isolate" opacity=".35"/>
+            <circle cx="18" cy="21" r=".4500008" fill="#fff" isolation="isolate" opacity=".6"/>
+            <circle cx="21" cy="16" r=".25" fill="#fff" isolation="isolate" opacity=".35"/>
+            <circle cx="5" cy="11" r=".3000002" fill="#fff" isolation="isolate" opacity=".45"/>
+            <circle cx="10" cy="13" r=".25" fill="#fff" isolation="isolate" opacity=".3"/>
+            <circle cx="16" cy="9" r=".3500004" fill="#fff" isolation="isolate" opacity=".5"/>
+            <circle cx="20" cy="12" r=".25" fill="#fff" isolation="isolate" opacity=".3"/>
+            <circle cx="2" cy="5" r=".3500004" fill="#fff" isolation="isolate" opacity=".4"/>
+            <circle cx="8" cy="4" r=".25" fill="#fff" isolation="isolate" opacity=".35"/>
+            <circle cx="14" cy="3" r=".4500008" fill="#fff" isolation="isolate" opacity=".55"/>
+            <circle cx="19" cy="6" r=".25" fill="#fff" isolation="isolate" opacity=".35"/>
+            <circle cx="23" cy="2" r=".2999992" fill="#fff" isolation="isolate" opacity=".45"/>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="halftone_coarse" data-name="halftone coarse" x="0" y="0" width="14" height="14" patternTransform="translate(-184.0275114 21920.9321051) scale(.9914464 1.0416846)" patternUnits="userSpaceOnUse" viewBox="0 0 14 14">
+      <g>
+        <rect width="14" height="14" fill="none"/>
+        <g>
+          <rect width="14" height="14" fill="none"/>
+          <g>
+            <rect width="14" height="14" fill="none"/>
+            <circle cx="3.4999999" cy="10.5000001" r="1.3999997" fill="#111"/>
+            <circle cx="10.5" cy="10.5" r="1.1000004" fill="#111"/>
+            <circle cx="3.5" cy="3.5" r="1.1000004" fill="#111"/>
+            <circle cx="10.5" cy="3.5" r="1.5" fill="#111"/>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="halftone_coarse1" data-name="halftone coarse1" x="0" y="0" width="14" height="14" patternTransform="translate(-180.7247388 21919.4203863) scale(.9914464 1.0416846)" patternUnits="userSpaceOnUse" viewBox="0 0 14 14">
+      <g>
+        <rect width="14" height="14" fill="none"/>
+        <g>
+          <rect width="14" height="14" fill="none"/>
+          <g>
+            <rect width="14" height="14" fill="none"/>
+            <circle cx="3.4999999" cy="10.5000001" r="1.3999997" fill="#111"/>
+            <circle cx="10.5" cy="10.5" r="1.1000004" fill="#111"/>
+            <circle cx="3.5" cy="3.5" r="1.1000004" fill="#111"/>
+            <circle cx="10.5" cy="3.5" r="1.5" fill="#111"/>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="halftone_coarse2" data-name="halftone coarse2" x="0" y="0" width="14" height="14" patternTransform="translate(-180.7247388 21919.4203863) scale(.9914464 1.0416846)" patternUnits="userSpaceOnUse" viewBox="0 0 14 14">
+      <g>
+        <rect width="14" height="14" fill="none"/>
+        <g>
+          <rect width="14" height="14" fill="none"/>
+          <g>
+            <rect width="14" height="14" fill="none"/>
+            <circle cx="3.4999999" cy="10.5000001" r="1.3999997" fill="#111"/>
+            <circle cx="10.5" cy="10.5" r="1.1000004" fill="#111"/>
+            <circle cx="3.5" cy="3.5" r="1.1000004" fill="#111"/>
+            <circle cx="10.5" cy="3.5" r="1.5" fill="#111"/>
+          </g>
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <g id="BASE_x5F_TOP">
+    <g id="layer-01-frame">
+      <line x1="28.4607658" y1="248.2007446" x2="1199.2540283" y2="248.2007446" fill="none" stroke="#111" stroke-width="3"/>
+      <line x1="28.4607658" y1="145.612381" x2="1199.2540283" y2="145.612381" fill="none" stroke="#111" stroke-width="3"/>
+    </g>
+    <g isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(44.7668762 292.4758301)" font-family="ManifoldExtdCF-Light, &apos;Manifold Extd CF&apos;" font-size="35" font-weight="300" isolation="isolate"><tspan x="0" y="0">DAILY PRAYER TIMES</tspan></text>
+      </g>
+    </g>
+    <g id="layer-09-footer">
+      <rect x="28.4607658" y="313.6036913" width="1169.9581795" height="1169.9582" fill="url(#halftone_coarse3)"/>
+    </g>
+  </g>
+  <g id="BASE_x5F_BOTTOM">
+    <g>
+      <line x1="39.8754958" y1="2107.3962402" x2="1210.6687583" y2="2107.3962402" fill="none" stroke="#111" stroke-width="5"/>
+      <line x1="39.8754958" y1="2189.8598633" x2="1210.6687583" y2="2189.8598633" fill="none" stroke="#111" stroke-width="5"/>
+      <line x1="500.6706931" y1="2127.5495605" x2="500.6706931" y2="2172.548584" fill="none" stroke="#111" stroke-width="3"/>
+      <line x1="725.5523424" y1="2123.6523438" x2="725.5523424" y2="2168.6513672" fill="none" stroke="#111" stroke-width="3"/>
+    </g>
+    <g>
+      <path d="M247.8959656,1908.1563721h176.2210388c10.6507263,0,19.2848511,8.6341553,19.2848511,19.2849121v-.0001221c0,10.6507568-8.6341248,19.2849121-19.2848511,19.2849121h-176.2210388c-10.6507263,0-19.2848511-8.6341553-19.2848511-19.2849121v.0001221c0-10.6507568,8.6341248-19.2849121,19.2848511-19.2849121Z" fill="url(#night_noise)" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M245.5818787,1904.4874268h176.2210388c10.6507263,0,19.2848511,8.6341553,19.2848511,19.2849121v-.0001221c0,10.6507568-8.6341248,19.2849121-19.2848511,19.2849121h-176.2210388c-10.6507263,0-19.2848663-8.6341553-19.2848663-19.2849121v.0001221c0-10.6507568,8.63414-19.2849121,19.2848663-19.2849121Z" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(270.4910889 1931.5391846)" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="21.5310307" font-weight="700" isolation="isolate"><tspan x="0" y="0">FUN FACT</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="b4v6M0.tif">
+        <g>
+          <g>
+            <path d="M247.8267975,1934.5751953c-1.8085938-.0009766-3.609375-.4619141-5.2075195-1.3349609-4.2695312-2.3320312-6.4233398-7.1113281-5.3598633-11.8925781,1.0898438-4.8994141,5.5292969-8.4560547,10.5561523-8.4560547.3310547,0,.6650391.015625,1,.046875,5.65625.5292969,9.9843597,5.3876953,9.8530121,11.0615234-.0830078,3.6113281-2.043457,7.0351562-5.1166992,8.9365234-1.730957,1.0722656-3.7109375,1.6386719-5.7246094,1.6386719h-.0004883.0000153Z" fill="#fff"/>
+            <path d="M247.8164825,1913.2668457c.3203125,0,.6448669.0151367.9646606.0450439,5.4606171.510376,9.6391449,5.2012939,9.5128632,10.6793213-.0803528,3.4855957-1.9730835,6.7913818-4.9395447,8.6271973-1.6717834,1.0345459-3.5830688,1.5814209-5.5272369,1.5814209-1.7462006,0-3.4848633-.4455566-5.0279999-1.2886963-4.1212921-2.2514648-6.2005463-6.8654785-5.1739502-11.4813232,1.0519714-4.7299805,5.3379822-8.1629639,10.1911926-8.1629639h.0000153ZM247.8164825,1912.5168457c-5.1683807,0-9.7813263,3.6154785-10.9233093,8.7501221-1.0872955,4.8887939,1.136322,9.8929443,5.5464935,12.3022461,1.6785889.9169922,3.5308228,1.3804932,5.3875732,1.3804932,2.0423737,0,4.0903625-.5601807,5.9219055-1.6936035,3.1026611-1.9200439,5.2052002-5.3659668,5.2946777-9.2475586.1363525-5.9138184-4.35289-10.8974609-10.1928711-11.4433594-.3464203-.0323486-.6920471-.0483398-1.0344543-.0483398h-.0000153Z"/>
+          </g>
+          <g>
+            <path d="M247.1998444,1934.5566406l-.0986328-.2011719c.0136719.0175781.027832.0341797.0419922.0517578.0869141.0654297.1660156.1181641.2402344.1582031-.0610352-.0029297-.1225586-.0058594-.1835938-.0087891ZM248.3028717,1934.5644531c.0556641-.0283203.1123047-.0625.1699219-.1005859l.0488281-.0332031-.0625.125c-.0522461.0039062-.1040039.0058594-.15625.0087891ZM246.3072662,1934.4667969c-.3330078-.0478516-.6645508-.1113281-.9926758-.1894531l-.5239258-.5263672c.480957.3203125.9882812.5605469,1.5166016.7158203ZM249.3917389,1934.4599609c.4121094-.1367188.8056641-.3164062,1.1962891-.5488281l-.4692383.4169922c-.2407227.0517578-.4833984.0966797-.7270508.1318359ZM245.6109772,1913.1230469c.2163086-.0458984.4350586-.0849609.6552734-.1171875-.378418.1279297-.7431641.2929688-1.0932617.4931641l.4379883-.3759766ZM250.4254303,1913.4638672c-.3388672-.1904297-.6791992-.3408203-1.03125-.4550781.2099609.0302734.418457.0683594.6245117.1103516l.4067383.3447266ZM247.1764069,1912.9111328c.0629883-.0039062.1264648-.0068359.1894531-.0097656-.0527344.0292969-.1054688.0634766-.1567383.1025391-.0556641.0615234-.109375.1240234-.1611328.1884766l.128418-.28125ZM248.4972076,1913.0400391c-.074707-.0556641-.1445312-.1005859-.2109375-.1376953.0463867.0019531.0922852.0048828.1386719.0068359l.0722656.1308594Z"/>
+            <path d="M247.8164825,1912.5168457c-5.1679688.0001221-9.7814026,3.6158447-10.9233093,8.7501221-1.0872955,4.8887939,1.136322,9.8929443,5.5464935,12.3022461,1.6788025.9171143,3.5305786,1.3804932,5.3875732,1.3804932,2.0421448,0,4.0905762-.5603027,5.9219055-1.6936035,3.1026611-1.9200439,5.2052002-5.3659668,5.2946777-9.2475586.1363525-5.9138184-4.35289-10.8974609-10.1928711-11.4433594-.3467712-.0324707-.6917114-.0483398-1.0344543-.0483398h-.0000153ZM247.8409882,1917.3345947c-.6221466,0-1.2507782-.0162354-1.9129181-.0415039.2623444-1.3530273.6118927-2.9956055,1.5077515-3.9903564.1343384-.1018066.264801-.1514893.3958893-.1514893.1315308,0,.2636871.0500488.4008789.1478271.2711182.321167.4900665.6679688.6895752,1.0516357.3564758.9343262.6083069,1.8082275.8226929,2.9257812-.6469727.0413818-1.2720795.0581055-1.9038696.0581055h0ZM246.5884094,1913.2956543l-.7050323,1.5446777c-.2236481.8127441-.4109039,1.5621338-.5923462,2.4082031-.9147797-.0935059-1.7924805-.206665-2.7798309-.3710938.9031677-1.6619873,2.2593842-3.0361328,4.0772095-3.5817871h0ZM250.3710175,1917.244873c-.2831268-1.4240723-.6006317-2.671875-1.3016357-3.9431152.8569794.241333,1.5574493.6708984,2.2144012,1.2109375.7388306.6679688,1.3254089,1.3939209,1.8661194,2.3527832-.9386749.1804199-1.8360901.2901611-2.7788849.3793945h0ZM253.7958527,1916.751709c-.6343384-1.1638184-1.4047241-2.1174316-2.4382019-2.9906006,1.553833.5093994,2.8221893,1.3624268,4.014801,2.5280762l-1.5765991.4625244h0ZM244.288681,1913.7634277c-.9998932.8586426-1.7847137,1.7606201-2.4158936,2.9779053l-1.5830688-.4483643c1.1586761-1.1407471,2.4520721-2.0126953,3.9989624-2.529541h0ZM255.449707,1923.4210205c-.0493164-2.1358643-.4654999-4.1729736-1.370697-6.1008301l1.7447815-.5258789c1.6095581,1.8192139,2.519104,4.1578369,2.6035156,6.6252441l-2.9775848.0014648h-.0000153ZM237.2379608,1923.4230957c.086319-2.4595947.9719543-4.7633057,2.5939941-6.6247559l1.7462463.5102539c-.8865814,1.8826904-1.3096924,3.8970947-1.3620453,6.1047363l-2.9781952.0098877h0v-.0001221ZM240.8282471,1923.4239502c.0526428-2.1004639.4633484-4.1062012,1.372757-5.9863281.9832001.1809082,1.9632416.3165283,2.9943542.4117432-.2758484,1.8018799-.4049835,3.5311279-.4262543,5.5539551l-3.9408569.0205078h0v.0001221ZM254.8353271,1923.4212646l-3.92836-.0001221c-.0399475-1.890625-.1449432-3.7272949-.4381256-5.5698242,1.0308685-.0976562,2.0137024-.232666,2.9914093-.4119873.9235229,1.8972168,1.3301849,3.9388428,1.3750763,5.9819336h0ZM247.8343964,1917.9505615c.6681671,0,1.3363953-.0172119,2.0233307-.0517578.2794952,1.8282471.4019318,3.5880127.4325256,5.5186768l-4.9135284.0050049c.0248108-1.8657227.1481171-3.6737061.4308929-5.5234375.6881714.0341797,1.3574524.0515137,2.0267792.0515137h0ZM258.4270325,1924.043335c-.0854187,2.4927979-.9996948,4.8312988-2.6673737,6.710083l-1.7104797-.5195312c.9356537-1.9588623,1.3531342-4.0322266,1.3999023-6.1878662l2.977951-.0026855h0ZM245.8032379,1929.5529785c-.2857361-1.828125-.3993073-3.6468506-.4267426-5.508667l4.9121857-.0004883c-.0222931,1.8468018-.1465302,3.6185303-.4257965,5.5372314-.8316345-.0385742-1.6423492-.0664062-2.4644775-.0664062-.5243073,0-1.0532837.0112305-1.5951691.038208h0v.0001221ZM239.7661438,1930.5876465c-1.559082-1.8104248-2.4479065-4.1121826-2.5271149-6.5437012l2.977005.0013428c.0468445,2.0809326.421875,4.0548096,1.3085785,6.0310059l-1.7584686.5113525h0ZM242.1553497,1929.9669189c-.8896942-1.8687744-1.2849579-3.9025879-1.3247375-5.9227295l3.9355011.0008545c.0207825,1.8491211.1364136,3.6229248.4154205,5.5294189l-3.0261841.392334h0v.0001221ZM253.4446869,1930.0767822l-2.9703674-.4473877c.2843323-1.8951416.4036865-3.711792.424942-5.5844727h3.9375305c-.0538025,2.0961914-.4558258,4.0899658-1.3921051,6.0318604h0ZM247.8282013,1934.3133545c-.1307526,0-.2581482-.0491943-.3970337-.1463623-.2680359-.3221436-.4878387-.6656494-.6937256-1.0473633-.3628082-.9545898-.6165924-1.8730469-.8268738-2.9553223.5179901-.0236816,1.025528-.0349121,1.5339661-.0349121.7539215,0,1.5095825.0246582,2.3023224.0697021-.2001648,1.043457-.4578094,1.9671631-.8174896,2.9212646-.2012177.3602295-.4112549.6895752-.6660156,1.0323486-.1597595.1075439-.2992554.1606445-.4351501.1606445h0ZM246.5835876,1934.1530762c-.9711456-.2471924-1.7961731-.7744141-2.4952393-1.4580078-.6613159-.6433105-1.1879578-1.3325195-1.6350555-2.1568604.9592133-.1513672,1.8898163-.2640381,2.8282928-.3404541l.5229492,2.1903076c.2271271.5933838.463501,1.1239014.7790527,1.7650146h0ZM249.0726471,1934.166748c.3020477-.6054688.5519257-1.1610107.7890778-1.7783203l.5137329-2.1341553c.9082336.0958252,1.8071442.2259521,2.7481842.4030762-.5258026.9371338-1.1230621,1.663208-1.8989716,2.3557129-.6602783.524292-1.3398285.9177246-2.1520233,1.1536865h0ZM244.1400452,1933.6291504c-1.5319366-.4936523-2.7947693-1.4127197-3.932251-2.536377l1.6264801-.4307861c.562088,1.1715088,1.3434296,2.0003662,2.3057709,2.9671631h0ZM251.4003906,1933.6915283c.9306793-.8262939,1.7403564-1.7213135,2.3446503-2.8922119l1.544342.4533691c-1.1172638,1.083252-2.3476257,1.9204102-3.8889923,2.4389648h0v-.0001221Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="BASE_x5F_SALAH">
+    <g isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(116.8590088 1560.3674316)" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="44.2161293" font-weight="700" isolation="isolate"><tspan x="0" y="0">FAJR</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(116.8590088 1638.0549316)" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="44.2161293" font-weight="700" isolation="isolate"><tspan x="0" y="0">DUHR</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(116.8590088 1707.0187988)" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="44.2161293" font-weight="700" isolation="isolate"><tspan x="0" y="0">ASR</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(116.8590088 1777.6428223)" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="44.2161293" font-weight="700" isolation="isolate"><tspan x="0" y="0">MAGHRIB</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(116.8590088 1852.7619629)" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="44.2161293" font-weight="700" isolation="isolate"><tspan x="0" y="0">ISHA</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="FAJR_x5F_ICON">
+        <path d="M64.5689163,1551.7609863l-16.7412682-10.324585c3.5778275-5.8013916,9.9253197-9.3443604,16.7412682-9.3443604,10.7900772,0,19.6689606,8.8789062,19.6689606,19.6689453,0,.0501709-.0001907.1004639-.0005798.1506348,0,0-19.6683884-.1506348-19.6683807-.1506348Z" fill="#111"/>
+        <line x1="46.4794159" y1="1556.5726318" x2="84.2378845" y2="1556.5726318" fill="none" stroke="#111" stroke-width="3"/>
+      </g>
+      <circle id="DUHR" cx="66.0327692" cy="1622.6306152" r="16.3079834" transform="translate(-1557.6494024 1653.3982216) rotate(-88.7552244)" fill="#111"/>
+      <g id="ASR">
+        <path d="M40.2363853,1703.3781738c10.2530136-16.6611328,21.7876549-16.6611328,34.6039314,0" fill="none" stroke="#111" stroke-width="4"/>
+        <circle cx="71.6374807" cy="1697.130249" r="10.772233" transform="translate(-49.820022 2.8365656) rotate(-1.6832291)" stroke="#111" stroke-width="3"/>
+      </g>
+      <g id="maghrib">
+        <path d="M66.036911,1768.7432861l-19.6669044-.2845459c.1545753-10.6815186,8.9843102-19.3843994,19.6669044-19.3843994,10.7900772,0,19.6689606,8.8789062,19.6689606,19.6689453,0,.0501709-.0001907.1004639-.0005798.1506348,0,0-19.6683884-.1506348-19.6683807-.1506348Z" fill="#111"/>
+        <line x1="46.3700027" y1="1773.5549316" x2="85.7058716" y2="1773.5549316" fill="none" stroke="#111" stroke-width="3"/>
+      </g>
+      <g id="ISHA">
+        <circle cx="67.0240774" cy="1835.3824463" r="15.3795171" fill="#111"/>
+        <circle cx="74.7138367" cy="1832.4987793" r="12.4958534" fill="#fff"/>
+      </g>
+    </g>
+    <g>
+      <line x1="28.4607659" y1="1797.3190759" x2="1199.2540282" y2="1797.3057861" fill="none" stroke="#111" stroke-width="2"/>
+      <line x1="28.4607658" y1="1726.7402344" x2="1199.2540283" y2="1726.7402344" fill="none" stroke="#111" stroke-width="2"/>
+      <rect x="28.4607658" y="1514.8149414" width="1170.459034" height="55.6062012" fill="url(#halftone_coarse)" isolation="isolate" opacity=".27"/>
+      <line x1="28.4607659" y1="1656.6807686" x2="1199.2540282" y2="1656.6674805" fill="none" stroke="#111" stroke-width="2"/>
+      <line x1="28.4607658" y1="1579.2473145" x2="1199.2540283" y2="1579.2473145" fill="none" stroke="#111" stroke-width="2"/>
+      <line x1="28.4607658" y1="1876.3709717" x2="1199.2540283" y2="1876.3709717" fill="none" stroke="#111" stroke-width="5"/>
+      <line x1="28.4607658" y1="1504.0969238" x2="1199.2540283" y2="1504.0969238" fill="none" stroke="#111" stroke-width="5"/>
+      <rect x="28.4607658" y="1589.9348145" width="1170.459034" height="55.6062012" fill="url(#halftone_coarse)" isolation="isolate" opacity=".27"/>
+      <rect x="28.4607658" y="1735.1745605" width="1170.459034" height="55.6062012" fill="url(#halftone_coarse1)" isolation="isolate" opacity=".27"/>
+      <rect x="28.4607658" y="1663.0546875" width="1170.459034" height="55.6062012" fill="url(#halftone_coarse)" isolation="isolate" opacity=".27"/>
+      <rect x="28.4607658" y="1809.2944336" width="1170.459034" height="55.6062012" fill="url(#halftone_coarse2)" isolation="isolate" opacity=".27"/>
+    </g>
+  </g>
+  <g id="Fun_Fact">
+    <rect id="QR_CODE_x5F_PLACEHOLDER" x="34.3250465" y="1904.4874268" width="164.0432701" height="164.043335"/>
+    <g isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(237.4261322 1982.0786133)" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="27" font-weight="700" isolation="isolate"><tspan x="0" y="0">FUN FACT.....................</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="TIMES">
+    <g id="FAJR" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(873.7937012 1560.3675537)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+        <g isolation="isolate">
+          <text transform="translate(873.7937012 1560.3675537)" fill="none" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate" stroke="#111" stroke-width=".5"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="FAJR_x5F_AM_x2F_PM" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(1084.2687988 1560.5446777)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">AM</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="THUR" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(873.793396 1632.7382812)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+        <g isolation="isolate">
+          <text transform="translate(873.793396 1632.7382812)" fill="none" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate" stroke="#111" stroke-width=".5"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="THUR_x5F_AM_x2F_PM" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(1084.2685547 1632.9154053)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">AM</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ASR1" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(873.7937622 1709.338623)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+        <g isolation="isolate">
+          <text transform="translate(873.7937622 1709.338623)" fill="none" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate" stroke="#111" stroke-width=".5"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ASR_x5F_AM_x2F_PM" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(1084.2679443 1709.5157471)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">AM</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="MAGH" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(873.7935181 1777.730957)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+        <g isolation="isolate">
+          <text transform="translate(873.7935181 1777.730957)" fill="none" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate" stroke="#111" stroke-width=".5"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="MAGH_x5F_AM_x2F_PM" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(1084.2686768 1777.907959)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">AM</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ISHA1" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(873.7932739 1852.8502197)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+        <g isolation="isolate">
+          <text transform="translate(873.7932739 1852.8502197)" fill="none" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate" stroke="#111" stroke-width=".5"><tspan x="0" y="0">00:00</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ISHA_x5F_AM_x2F_PM" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(1084.2684326 1853.0272217)" font-family="Eurostile-ExtendedTwo, &apos;Eurostile Extended #2&apos;" font-size="44.2161293" isolation="isolate"><tspan x="0" y="0">AM</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="BOTTOM_x5F_COUNTER">
+    <rect id="LOCKED_x5F_BG" x="36.4279194" y="2126.128418" width="435.7944012" height="44.9992676" rx="22.4995861" ry="22.4995861" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <rect id="NIGHT_x5F__x25__x5F_EDIT_x5F_SIZE" x="206.1656952" y="2126.128418" width="266.0543976" height="44.9992676" rx="22.4992676" ry="22.4992676"/>
+    <g id="NIGHTIME_x5F_HRS" isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(357.2559204 2156.6518555)" fill="#fff" font-family="ManifoldExtdCF-Light, &apos;Manifold Extd CF&apos;" font-size="21" font-weight="300" isolation="isolate"><tspan x="0" y="0">12.9 hrs</tspan></text>
+      </g>
+    </g>
+    <g id="DAYLIGHT_x5F_HRS" isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(64.8090668 2156.7561035)" font-family="ManifoldExtdCF-Light, &apos;Manifold Extd CF&apos;" font-size="21" font-weight="300" isolation="isolate"><tspan x="0" y="0">11.1 hrs</tspan></text>
+      </g>
+    </g>
+    <path id="LOCKED_x5F_SUNLIGHT" d="M72.6817017,2118.2561035h113.4235077c4.3478394,0,7.8724518,3.5246582,7.8724518,7.8725586v-.0002441c0,4.3479004-3.5246124,7.8725586-7.8724518,7.8725586h-113.4235077c-4.3478355,0-7.8724556-3.5246582-7.8724556-7.8725586v.0002441c0-4.3479004,3.5246201-7.8725586,7.8724556-7.8725586Z"/>
+    <g id="LOCKED_x5F_SUNLIGHT1" isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(87.6230011 2130.2653809)" fill="#fff" font-family="ManifoldExtdCF-Light, &apos;Manifold Extd CF&apos;" font-size="12" font-weight="300" isolation="isolate"><tspan x="0" y="0">SUNLIGHT</tspan></text>
+      </g>
+    </g>
+    <g id="SEASON_x5F_COUNTER">
+      <rect id="LOCKED_x5F_BG1" x="754.9315796" y="2125.4890137" width="435.7943726" height="44.9992676" rx="22.4995117" ry="22.4995117" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <rect id="NIGHT_x5F__x25__x5F_EDIT_x5F_SIZE1" x="843.1363259" y="2125.4890137" width="347.587429" height="44.9987793" rx="22.4992676" ry="22.4992676"/>
+      <g id="NIGHTIME_x5F_HRS1" isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(1024.4006348 2156.7368164)" fill="#fff" font-family="ManifoldExtdCF-Light, &apos;Manifold Extd CF&apos;" font-size="21" font-weight="300" isolation="isolate"><tspan x="0" y="0">of 93 Days</tspan></text>
+        </g>
+      </g>
+      <g id="DAYLIGHT_x5F_HRS1" isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(783.1530762 2156.7368164)" font-family="ManifoldExtdCF-Light, &apos;Manifold Extd CF&apos;" font-size="21" font-weight="300" isolation="isolate"><tspan x="0" y="0">00</tspan></text>
+        </g>
+      </g>
+      <path id="LOCKED_x5F_SUNLIGHT2" d="M1046.2485352,2116.2561035h113.423584c4.3477783,0,7.8724365,3.5246582,7.8724365,7.8725586v-.0002441c0,4.3479004-3.5246582,7.8725586-7.8724365,7.8725586h-113.423584c-4.3477783,0-7.8724365-3.5246582-7.8724365-7.8725586v.0002441c0-4.3479004,3.5246582-7.8725586,7.8724365-7.8725586Z"/>
+      <g id="LOCKED_x5F_SUNLIGHT3" isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(1067.9331055 2128.2653809)" fill="#fff" font-family="ManifoldExtdCF-Light, &apos;Manifold Extd CF&apos;" font-size="12" font-weight="300" isolation="isolate"><tspan x="0" y="0">SEASON</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="SEASON" isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(527.7453613 2161.1508789)" fill="#0c0c0c" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="28" font-weight="700" isolation="isolate"><tspan x="0" y="0">SEASON</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="Islamic_Date">
+    <g id="ISLAM_x5F_YR">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(42.7268372 224.6208496)" font-family="ManifoldExtdCF-Medium, &apos;Manifold Extd CF&apos;" font-size="68" font-weight="500" isolation="isolate"><tspan x="0" y="0">1447</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ISLAM_x5F_MONTH" isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(453.6589203 224.6208496)" font-family="ManifoldExtdCF-Medium, &apos;Manifold Extd CF&apos;" font-size="68" font-weight="500" isolation="isolate"><tspan x="0" y="0" xml:space="preserve"> 00  Dhu al-Qa&apos;dah </tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="GeorgianDate">
+    <g id="DAY" isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(39.869751 129.8140869)" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="97" font-weight="700" isolation="isolate"><tspan x="0" y="0">06</tspan></text>
+      </g>
+    </g>
+    <g id="MONTH" isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(412.1248322 129.8140869)" fill="#fff" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="97" font-weight="700" isolation="isolate"><tspan x="0" y="0">DECEMBER</tspan></text>
+      </g>
+      <g isolation="isolate">
+        <text transform="translate(412.1248322 129.8140869)" fill="none" font-family="ManifoldExtdCF-Bold, &apos;Manifold Extd CF&apos;" font-size="97" font-weight="700" isolation="isolate" stroke="#000" stroke-width="3"><tspan x="0" y="0">DECEMBER</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="City">
+    <g id="CITY_x5F_NAME" isolation="isolate">
+      <g isolation="isolate">
+        <text transform="translate(971.4935303 292.6154785)" font-family="ManifoldExtdCF-Light, &apos;Manifold Extd CF&apos;" font-size="35" font-weight="300" isolation="isolate"><tspan x="0" y="0">CHICAGO</tspan></text>
+      </g>
+    </g>
+  </g>
+  <circle id="CIRCLE_x5F_PLACEHOLDER" cx="613.4398556" cy="898.5827913" r="584.9791" fill="#fff"/>
+</svg>
